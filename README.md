@@ -17,3 +17,5 @@ advancedSearch will provide the user with advanced search options
 CSS will mimic google's styling
 Each page will have redirect links in the upper right. 
 index provides options for both image and advanced, where the latter 2 will redirect back to search. 
+
+Full specifications for project found here: https://cs50.harvard.edu/web/2020/projects/0/search/
